@@ -1,5 +1,23 @@
-## Git as in Git F on programming Subject.
-### Check List
-- [x] Try to make .md profile
-- [ ] Learn some python
-- [ ] Not get F on Object Oriented Programming ☠☠☠
+### SilberWeich, not a real name!
+```python
+print("Goodbye World")
+```
+#### Check List
+- [x] Try to make .md profile on Github.
+- [ ] Start Learning some CyberSecurity.
+- [ ] Learn Python to make tools for CyberSecurity.
+- [ ] Learn C and progress to Assembly to understand low level language.
+
+#### Currently Learning
+<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />
+<img align="left" alt="NumPy" width="26px" src="https://simpleicons.org/icons/numpy.svg" />
+<img align="left" alt="ETH" width="26px" src="https://simpleicons.org/icons/ethereum.svg" />
+
+<br />
+
+#### Tools
+<img align="left" height="25" width="25" src="https://simpleicons.org/icons/pycharm.svg" />
+<img align="left" height="25" width="25" src="https://simpleicons.org/icons/apachenetbeanside.svg" />
+<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />  
+<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/gnubash.svg" />  
