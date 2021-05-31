@@ -1,6 +1,7 @@
 ### SilberWeich, not a real name!
 ```python
-print("Goodbye World")
+def intakeCoffee(self, sleepy: bool) -> bool:
+  if tired: return True
 ```
 #### Check List
 - [x] Try to make .md profile on Github.
