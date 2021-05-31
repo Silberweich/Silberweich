@@ -9,10 +9,10 @@ print("Goodbye World")
 - [ ] Learn C and progress to Assembly to understand low level language.
 
 #### Currently Learning
-<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />
-<img align="left" alt="NumPy" width="26px" src="https://simpleicons.org/icons/numpy.svg" />
-<img align="left" alt="ETH" width="26px" src="https://simpleicons.org/icons/ethereum.svg" />
-
+<img align="left" alt="Python" width="30px" src="https://simpleicons.org/icons/python.svg" />
+<img align="left" alt="NumPy" width="30px" src="https://simpleicons.org/icons/numpy.svg" />
+<img align="left" alt="ETH" width="30px" src="https://simpleicons.org/icons/ethereum.svg" />
+<img align="left" alt="ETH" width="30px" src="https://simpleicons.org/icons/jupyter.svg" />
 <br />
 
 #### Tools
