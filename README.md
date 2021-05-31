@@ -10,7 +10,7 @@ def intakeCoffee(sleepy: bool, lastDrank: int) -> bool:
 ```
 #### Check List
 - [x] Try to make .md profile on Github.
-- [ ] Learn Basic Python again.
+- [x] Learn Basic Python again.
 - [ ] Learn Jupyter, Numpy, and Python Anaconda.
 - [ ] Start Learning some CyberSecurity.
 - [ ] Learn Python to make tools for CyberSecurity.
@@ -22,7 +22,7 @@ def intakeCoffee(sleepy: bool, lastDrank: int) -> bool:
 <img align="left" alt="ETH" width="30px" src="https://simpleicons.org/icons/ethereum.svg" />
 <img align="left" alt="Jupyter" width="30px" src="https://simpleicons.org/icons/jupyter.svg" />
 <img align="left" alt="Anaconda" width="30px" src="https://simpleicons.org/icons/anaconda.svg" />
-<br />
+<br/>
 
 #### Tools
 <img align="left" height="26" width="26" src="https://simpleicons.org/icons/pycharm.svg" />
@@ -30,4 +30,9 @@ def intakeCoffee(sleepy: bool, lastDrank: int) -> bool:
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />  
 <img align="left" alt="GnuB" width="26px" src="https://simpleicons.org/icons/gnubash.svg" />  
-<img align="left" alt="GnuB" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="left" alt="VSCODE" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<br/>
+
+#### Other Tools
+<img align="left" alt="VSCODE" width="26px" src="https://simpleicons.org/icons/adobephotoshop.svg" />
+<img align="left" alt="VSCODE" width="26px" src="https://simpleicons.org/icons/adobelightroom.svg" />
