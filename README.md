@@ -1,12 +1,6 @@
-### SilberWeich, not a real name!
-```python
-def intakeCoffee(sleepy: bool, lastDrank: int) -> bool:
-    if sleepy and lastDrank < 10: 
-        return False
-    elif sleepy and lastDrank > 10:
-        return True
-    else: 
-        return False
+### Silberweich, Phichayut N.
+```
+:(
 ```
 #### Check List
 - [x] Try to make .md profile on Github.
